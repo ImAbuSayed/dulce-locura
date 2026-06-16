@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Dulce locura
+
+This log tracks the cryptographic history and versioning for the song **Dulce locura** (dulce-locura).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-17T02:28:22.872578 | `v1` | `c33b15f0a0ef89c9455e4c100754def2a2874da99b0a1080a6114579cf4dff90` | `586fe3dbca778ce6c6b91dd46c4ad709a0ba4df11e64713e8ec38e7c5db52bc5` | `2026-06-17_dulce-locura-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*

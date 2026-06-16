@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/dulce-locura/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [License this song: Dulce locura](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/dulce-locura/) |
+| **Get License** | [Get License For Dulce locura](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/dulce-locura/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `c33b15f0a0ef89c9455e4c100754def2a2874da99b0a1080a6114579cf4dff90` |
 | **Timestamp** | June 17, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
